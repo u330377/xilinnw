@@ -1,0 +1,79 @@
+#links-table {
+    text-align: center;
+    background-color:transparent;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#links-table * {
+    border-collapse: collapse;
+}
+
+#links-table .ReactTable {
+    text-align: center;
+    background-color:transparent;
+    width: 100%;
+}
+
+#links-table .ReactTable .rt-table {
+    empty-cells: show;
+    text-align: center;
+    vertical-align: top;
+    margin: auto;
+    padding: 0;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background: transparent 0 0 repeat url(/images/xilinnwbk.jpg);
+}
+
+#links-table .ReactTable .rt-thead .rt-tr {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 0;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background-color:transparent;
+}
+
+#links-table .ReactTable .rt-thead .rt-tr .rt-th {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 8px 0 8px 0;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background-color:transparent;
+    color: #008000;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#links-table .ReactTable .rt-tbody {
+    text-align: center;
+}
+
+#links-table .ReactTable .rt-tbody .rt-tr-group {
+    text-align: center;
+    border-bottom: 0 none transparent;
+}
+
+#links-table .ReactTable .rt-tbody .rt-tr-group .rt-tr {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 0;
+    background-color: transparent;
+    min-width: 604px;
+}
+
+#links-table .ReactTable .rt-tbody .rt-tr-group .rt-tr .rt-td {
+    text-align: left;
+    vertical-align: middle;
+    margin: auto;
+    padding: 5px 5px 15px;
+    border: 1px ridge #cfcfcf;
+    border-spacing: 0;
+    background-color: transparent;
+}

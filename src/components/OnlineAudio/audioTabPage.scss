@@ -1,0 +1,78 @@
+.vertical-tabs {
+    display: flex;
+}
+
+.vertical-tabs .react-tabs__tab-list {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0 0 0 2px;
+    width: 7.8rem;
+    border: 0 none transparent;
+    border-right: 2px solid #3498db;
+    background-color: #900;
+}
+
+.vertical-tabs .react-tabs__tab-list .tab-header-img {
+    height: 6.69rem;
+    width: 7.8rem;
+    margin-bottom: 2px;
+    background-image: url(/images/behindsearchbar.gif);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.vertical-tabs .react-tabs__tab-list .tab-xilin-img {
+    height: 6.69rem;
+    width: 7.8rem;
+    background-image: url(/images/xilinlogologin.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.vertical-tabs .react-tabs__tab-list .tab-footer-extend {
+    flex-grow: 1;
+    flex-basis: auto;
+    width: 7.8rem;
+}
+
+.vertical-tabs .react-tabs__tab-list .tab-footer-img {
+    min-height: 2.78rem;
+    width: 7.8rem;
+    margin-top: 2px;
+    background-image: url(/images/copyrightbackground.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size: auto;
+}
+
+.vertical-tabs .react-tabs__tab-panel {
+    flex: 1;
+    min-height: 20rem;
+    background: url(/images/xilinnwbk.jpg);
+}
+
+.vertical-tabs .react-tabs__tab {
+    background: transparent;
+    color: #65fefe;
+    font-weight: bold;
+    width: 7.4rem;
+    border: 0 none transparent;
+    border-top: 1px solid #cfcfcf;
+    border-right: 2px solid #3498db;
+    padding: 0.4em 0 0.4em 0.41em;
+    text-align: left;
+}
+
+.vertical-tabs .react-tabs__tab.react-tabs__tab--selected {
+    background: url(/images/xilinnwbk.jpg);
+    border: 2px solid #3498db;
+    border-right: 0 none transparent;
+    border-radius: 5px 0 0 5px;
+    color: #090;
+}
+
+.vertical-tabs .none-display {
+    display: none;
+}

@@ -1,0 +1,93 @@
+#faqs-table {
+    text-align: center;
+    background-color:transparent;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#faqs-table * {
+    border-collapse: collapse;
+}
+
+#faqs-table .ReactTable {
+    text-align: center;
+    background-color:transparent;
+    width: 100%;
+}
+
+#faqs-table .ReactTable .rt-table {
+    empty-cells: show;
+    text-align: center;
+    vertical-align: top;
+    margin: auto;
+    padding: 0;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background: transparent 0 0 repeat url(/images/xilinnwbk.jpg);
+    min-width: 100%;
+    width: 100%;
+}
+
+#faqs-table .ReactTable .rt-thead .rt-tr {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 0;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background-color:transparent;
+    max-width: 100%;
+    width: 100%;
+}
+
+#faqs-table .ReactTable .rt-thead .rt-tr .rt-th {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 8px 0 8px 0;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background-color:transparent;
+    color: #008000;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    max-width: 100%;
+    width: 100%;
+}
+
+#faqs-table .ReactTable .rt-tbody {
+    text-align: center;
+    max-width: 100%;
+    width: 100%;
+}
+
+#faqs-table .ReactTable .rt-tbody .rt-tr-group {
+    text-align: center;
+    max-width: 100%;
+    width: 100%;
+    border-bottom: 0 none transparent;
+}
+
+#faqs-table .ReactTable .rt-tbody .rt-tr-group .rt-tr {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding: 0;
+    background-color: transparent;
+    max-width: 100%;
+    width: 100%;
+}
+
+#faqs-table .ReactTable .rt-tbody .rt-tr-group .rt-tr .rt-td {
+    text-align: left;
+    vertical-align: middle;
+    margin: auto;
+    padding: 0 5px;
+    border: 0 none transparent;
+    border-spacing: 0;
+    background-color: transparent;
+    max-width: 100%;
+    width: 100%;
+    white-space: pre-wrap;
+}

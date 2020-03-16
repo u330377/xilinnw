@@ -1,0 +1,8 @@
+Computer Technology for Children III
+
+This class is a continuation to Computer Technology for Children II.
+The class introduces high level programming (Python, JavaScript) to the students. The students
+will design simple programs and games using the high level programming language, while
+learning the program’s syntax, operations, and functions.
+For this class, the student is expected to have basic knowledge and experience with computer
+programing.

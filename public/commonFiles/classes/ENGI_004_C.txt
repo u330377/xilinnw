@@ -1,0 +1,5 @@
+The "Computer Technology for Children II" description:
+
+This class is a continuation to fun for kids programming and Computer Technology for Children I. The class will take the students programming language to the next level. The student will be introduce to high-level programming language, such as: Python. In this class, the students will learn programming structure and logic, and implementing various statements to the programs. The students will have experience real-life of programming, such as programming games and various other functions, and applying those programming skill to control the hardware. The intended audiences are students from 2nd to 8th grade. The knowledge for basic programming, such as Scratch, is prerequisite for this class.
+
+Instructor: Victor Susanto
