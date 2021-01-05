@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/polyfill": "^7.4.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "core-js": "^2.6.4",
     "joi": "^14.3.1",
